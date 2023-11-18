@@ -83,5 +83,3 @@ Jack's turn:
 1
 John won!
 ```
-
-Feel free to use, modify, or expand upon this README to suit your program's specific implementation details and documentation needs.
